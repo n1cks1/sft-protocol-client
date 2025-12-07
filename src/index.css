@@ -4,10 +4,6 @@
     themes: all;
 }
 
-@theme {
-    --font-roboto: "Roboto", sans-serif;
-}
-
 :root {
-    font-family: var(--font-roboto);
+    font-family: "Roboto", sans-serif;
 }
